@@ -11,14 +11,16 @@
 <br/>
 
 <div align="center">
-    🔭 I'm currently studing in **Arizona State University**
+    
+ 🔭 I'm currently studying at **Arizona State University**
 
-    🌱 I'm currently learning **Assembly, C++, C**
+ 🌱 I'm currently learning **Assembly, C++, C**
 
-    💬 Ask me about **C#, Docker, .NET Cosmos or anything else [here](https://github.com/zimavi/zimavi/issues)**
+ 💬 Ask me about **C#, Docker, .NET Cosmos or anything else [here](https://github.com/zimavi/zimavi/issues)**
 
-    ⚡ Fun fact **there's a fruit that tastes like chocolate pudding**
-</div>
+ ⚡ Fun fact **there's a fruit that tastes like chocolate pudding**
+    
+ </div>
 
 <div align="center">
     <a alt="dev@zimavi.net.ua" href="mailto:dev@zimavi.net.ua">
