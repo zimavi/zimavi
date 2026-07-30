@@ -1,74 +1,26 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zimavi.zimavi" />
+<h1 align="center">Hi 👋, I'm zimavi</h1>
+<h3 align="center">I'm a begginer in cybersecurity and enthusiast with C# and C from Ukraine 🇺🇦</h3>
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=C133F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello!+%F0%9F%91%8B;I'm+zimavi!"/>
-    </a>
-</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zimavi" alt="zimavi" /></a> </p>
 
-<h3 alt="Please don't judge harshly <3" align="center">A newbie software developer from Ukraine 🇺🇦</h3>
+- 🔭 I’m currently working on [YukihanaOS](https://github.com/yukihana-project/YukihanaOS)
 
-<br/>
+- 🌱 I’m currently learning **C, cybersecurity basics**
 
-<div align="center">
-    
- 🔭 I'm currently studying at **Arizona State University**
+- 📫 How to reach me **mail@zimavi.net.ua**
 
- 🌱 I'm currently learning **Assembly, C++, C**
+- ⚡ Fun fact **I'm learning guitar**
 
- 💬 Ask me about **C#, Docker, .NET Cosmos or anything else [here](https://github.com/zimavi/zimavi/issues)**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
- ⚡ Fun fact **there's a fruit that tastes like chocolate pudding**
-    
- </div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<div align="center">
-    <a alt="dev@zimavi.net.ua" href="mailto:dev@zimavi.net.ua">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a alt="@zimavi_dev" href="https://t.me/zimavi_dev">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-    <a alt="Check out my repos :P" href="https://github.com/zimavi?tab=repositories">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">
-    </a>
-</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/zimavi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zimavi" /></a></p><br><br>
 
-<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zimavi&show_icons=true&locale=en&layout=compact" alt="zimavi" /></p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img alt="My tools, languages and frameworks in use" src="https://skillicons.dev/icons?i=java,javascript,cs,c,cpp,vscode,bash,docker,dotnet,git,github">
-    <img alt="My tools, languages and frameworks in use" src="https://skillicons.dev/icons?i=idea,mysql,postgres,supabase,unity,visualstudio,py,postman,nodejs,maven">
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-    <br/>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zimavi/zimavi/output/github-contribution-grid-snake-dark.svg"/>
-    <br/><br/><br/>
-</div>
-
-<hr/>
-<h2 align="center">🔥 Stats 🔥</h2>
-<br>
-<div align="center">
-    <img width=390 src="https://streak-stats.demolab.com/?user=zimavi&count_private=true&theme=react&border_radius=10" alt="strak stats">
-    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=zimavi&count_private=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-    <br/>
-    <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=zimavi&hide=Binary,Markdown&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-    <a href='https://ko-fi.com/Z8Z0URCVP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zimavi&show_icons=true&locale=en" alt="zimavi" /></p>
