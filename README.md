@@ -40,6 +40,16 @@ Outside of programming, you'll probably find me listening to music, exploring in
 
 ---
 
+# 📌 Current projects
+
+<div align="center">
+
+<a href="https://github.com/yukihana-project/YukihanaOS">
+  <img src="./profile/pin-stats-organization-github-readme-stats.svg" alt="CosmosOS based operating system">
+</a>
+
+</div>
+
 # 🚀 Featured Projects
 
 ## ❄ YukihanaOS
