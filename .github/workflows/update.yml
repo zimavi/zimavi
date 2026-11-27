@@ -31,15 +31,30 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=yukihana-project&repo=YukihanaOS&bg_color=0D1117
-          path: profile/pin-stats-organization-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      parallel:
+        - name: Generate pin card (yukihana-project/YukihanaOS)
+          uses: stats-organization/github-readme-stats-action@v2
+          with:
+            card: pin
+            options: username=yukihana-project&repo=YukihanaOS&bg_color=0D1117
+            path: profile/pin-stats-yukihana-project-yukihanaos.svg
+            token: ${{ secrets.GITHUB_TOKEN }}
+        - name: Generate pin card (zimavi/Shirabe.Client)
+          uses: stats-organization/github-readme-stats-action@v2
+          with:
+            card: pin
+            options: username=zimavi&repo=Shirabe.Client&bg_color=0D1117
+            path: profile/pin-stats-zimavi-shirabe-client.svg
+            token: ${{ secrets.GITHUB_TOKEN }}
+        - name: Generate pin card (zimavi/oxygen)
+          uses: stats-organization/github-readme-stats-action@v2
+          with:
+            card: pin
+            options: username=zimavi&repo=oxygen&bg_color=0D1117
+            path: profile/pin-stats-zimavi-oxygen.svg
+            token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
+- name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
