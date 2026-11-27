@@ -44,8 +44,16 @@ Outside of programming, you'll probably find me listening to music, exploring in
 
 <div align="center">
 
+<a href="https://github.com/zimavi/Shirabe.Client">
+  <img src="./profile/pin-stats-zimavi-shirabe-client.svg" alt="Music deserved more then just a play button">
+</a>
+
+<a href="https://github.com/zimavi/oxygen">
+  <img src="./profile/pin-stats-zimavi-oxygen.svg" alt="Custom compiler">
+</a>
+
 <a href="https://github.com/yukihana-project/YukihanaOS">
-  <img src="./profile/pin-stats-organization-github-readme-stats.svg" alt="CosmosOS based operating system">
+  <img src="./profile/pin-stats-yukihana-project-yukihanaos.svg" alt="CosmosOS based operating system">
 </a>
 
 </div>
@@ -79,19 +87,6 @@ Additional technologies:
 - Rider
 - VMware
 - QEMU
-
----
-
-# 💻 What I Enjoy Building
-
-- Operating systems
-- Developer tooling
-- CLI applications
-- Low-level software
-- Programming language infrastructure
-- Build systems
-- Security-related software
-- Experimental projects
 
 ---
 
